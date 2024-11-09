@@ -3060,7 +3060,7 @@ blockquote cite::before {
 	.form_group
 	input:not([type="submit"]):not([type="radio"]):not([type="checkbox"]),
 .tj-post-comment__form .form_group textarea {
-	background: var(--tj-theme-accent-2);
+/* 	background: var(--tj-theme-accent-2); */
 }
 .tj-post-comment__form .tj-btn-primary {
 	width: auto;
